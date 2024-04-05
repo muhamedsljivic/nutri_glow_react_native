@@ -129,7 +129,7 @@ const styles = StyleSheet.create({
   },
   heading: {
     fontWeight: "bold",
-    fontSize: 25,
+    fontSize: 24,
     textAlign: "center",
     color: "#23233C",
   },
